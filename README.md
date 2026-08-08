@@ -2,7 +2,7 @@
 
 No inflated metrics. Each repo ships with real eval numbers, a CI gate that can fail the build on regression, and an honest line about what's actually deployed versus only validated.
 
-**Zain Ul Abdin** · LLMOps / AI engineer · Pakistan (UTC+5) · open to freelance & contract work
+**Zain Ul Abdin** · LLMOps / AI engineer · open to freelance & contract work
 
 ---
 
